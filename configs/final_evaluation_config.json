@@ -1,0 +1,109 @@
+{
+    "project": {
+        "name": "Few-Shot Plant Disease Recognition",
+        "encoder": "facebook/dinov2-small",
+        "embedding_dimension": 384,
+        "input_size": 224,
+        "encoder_frozen": true
+    },
+    "evaluation_protocol": {
+        "shots_per_class": [
+            1,
+            5,
+            10
+        ],
+        "seeds": [
+            42,
+            123,
+            2026
+        ],
+        "number_of_classes": 14,
+        "primary_metric": "Macro F1",
+        "secondary_metrics": [
+            "Accuracy",
+            "Macro Precision",
+            "Macro Recall"
+        ],
+        "validation_used_for_model_selection": true,
+        "test_used_for_hyperparameter_tuning": false,
+        "plantdoc_used_for_model_selection": false
+    },
+    "datasets": {
+        "plantvillage_test": "metadata/plantvillage_test_manifest_clean.csv",
+        "plantdoc_external_test": "metadata/plantdoc_external_test_manifest.csv",
+        "plantvillage_training_pool": "metadata/plantvillage_training_pool_manifest.csv",
+        "plantvillage_validation": "metadata/plantvillage_validation_manifest.csv",
+        "support_sets_directory": "metadata/few_shot_support_sets"
+    },
+    "embeddings": {
+        "directory": "features/dinov2_small",
+        "train": "features/dinov2_small/train_embeddings.npy",
+        "train_labels": "features/dinov2_small/train_labels.npy",
+        "plantvillage_test": "features/dinov2_small/test_embeddings.npy",
+        "plantvillage_test_labels": "features/dinov2_small/test_labels.npy",
+        "plantdoc_test": "features/dinov2_small/plantdoc_external_test/embeddings.npy",
+        "plantdoc_labels": "features/dinov2_small/plantdoc_external_test/labels.npy",
+        "class_names": "features/dinov2_small/class_names.json"
+    },
+    "models": {
+        "knn": {
+            "type": "KNeighborsClassifier",
+            "n_neighbors": 1,
+            "weights": "uniform",
+            "metric": "euclidean",
+            "algorithm": "brute",
+            "normalize_embeddings": true
+        },
+        "linear_probe": {
+            "type": "LogisticRegression",
+            "penalty": "l2",
+            "solver": "lbfgs",
+            "max_iter": 3000,
+            "normalize_embeddings": false,
+            "C_by_shots": {
+                "1": 0.01,
+                "5": 0.1,
+                "10": 0.1
+            }
+        },
+        "prototype": {
+            "type": "Nearest Class Mean Prototype",
+            "similarity": "cosine",
+            "normalize_embeddings_by_shots": {
+                "1": false,
+                "5": false,
+                "10": true
+            },
+            "prototype_method": "Mean of support embeddings"
+        },
+        "prototype_refinement": {
+            "type": "One-Step Prototype Refinement",
+            "similarity": "cosine",
+            "normalize_embeddings": true,
+            "confidence_threshold": 0.9,
+            "max_pseudo_labels_per_class_multiplier": 2,
+            "initial_prototype_weight": 0.75,
+            "pseudo_centroid_weight": 0.25,
+            "iterations": 1,
+            "pseudo_label_pool": "Remaining PlantVillage training-pool images",
+            "exclude_support_leaf_groups": true,
+            "use_unlabeled_pool_ground_truth_labels": false,
+            "use_plantdoc_images_for_refinement": false
+        }
+    },
+    "final_outputs": {
+        "directory": "results/final_evaluation",
+        "save_per_class_metrics": true,
+        "save_confusion_matrices": true,
+        "save_classification_reports": true,
+        "calculate_cross_domain_drop": true
+    },
+    "notes": [
+        "Hyperparameters are frozen based on validation results.",
+        "Neither PlantVillage test nor PlantDoc test may be used for tuning.",
+        "PlantDoc is reserved for external cross-domain evaluation.",
+        "The refinement method uses only unlabeled PlantVillage pool embeddings.",
+        "Refinement normalization was fixed and was not separately ablated.",
+        "Only three random seeds were evaluated; uncertainty must be reported."
+    ]
+}

@@ -1,0 +1,141 @@
+image_path,class_name,leaf_id,embedding_index
+raw/color/Apple___Apple_scab/9555b45b-0080-4d26-8b54-a343b9bf0ffc___FREC_Scab 3313.JPG,Apple___Apple_scab,Apple___Apple_scab:::75.0,7014
+raw/color/Apple___Apple_scab/bce3ba0b-a142-4b28-8cb3-eb6bb6a3b8a2___FREC_Scab 3142.JPG,Apple___Apple_scab,Apple___Apple_scab:::45.0,7130
+raw/color/Apple___Apple_scab/98d39524-dfe5-42c0-999d-110aa1c49b85___FREC_Scab 3259.JPG,Apple___Apple_scab,Apple___Apple_scab:::67.0,6814
+raw/color/Apple___Apple_scab/b0b2a38c-396d-4d25-b346-5947e2c787d9___FREC_Scab 3077.JPG,Apple___Apple_scab,Apple___Apple_scab:::32.0,7281
+raw/color/Apple___Apple_scab/eda0a3b5-fe6e-4646-acc6-7db5179e3e96___FREC_Scab 3380.JPG,Apple___Apple_scab,Apple___Apple_scab:::85.0,7086
+raw/color/Apple___Apple_scab/8a212787-77fb-40dc-a028-92d5ff2d6c7c___FREC_Scab 3043.JPG,Apple___Apple_scab,Apple___Apple_scab:::26.0,6975
+raw/color/Apple___Apple_scab/14c623e5-051c-42f6-9e4f-f7a93e6a723c___FREC_Scab 2965.JPG,Apple___Apple_scab,Apple___Apple_scab:::12.0,7198
+raw/color/Apple___Apple_scab/0a769a71-052a-4f19-a4d8-b0f0cb75541c___FREC_Scab 3165.JPG,Apple___Apple_scab,Apple___Apple_scab:::49.0,6837
+raw/color/Apple___Apple_scab/35694cb9-efe9-441a-a810-13e065de7925___FREC_Scab 3320.JPG,Apple___Apple_scab,Apple___Apple_scab:::76.0,7098
+raw/color/Apple___Apple_scab/13f31401-f65a-4025-823a-4f2738e8bff9___FREC_Scab 3062.JPG,Apple___Apple_scab,Apple___Apple_scab:::29.0,6947
+raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/a42e0a8a-560a-4659-96ed-3af63cf57b77___RS_GLSp 9313 copy.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,fallback_RS_GLSp 9313,987
+raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/e760af68-e885-46b4-a823-c4faf290c9d0___RS_GLSp 7299.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,fallback_RS_GLSp 7299,1141
+raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/2045dd77-e896-4c78-b40b-5b93631e4e5c___RS_GLSp 9300.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,fallback_RS_GLSp 9300,1035
+raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/9ac3c670-7ccf-46a8-870c-c075a26374b0___RS_GLSp 9344.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,fallback_RS_GLSp 9344,1105
+raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/9a59a663-089f-4722-8bb5-937f18978888___RS_GLSp 7301.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,fallback_RS_GLSp 7301,1104
+raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/b2601912-33a1-4fb5-915a-d09d9808c7a1___RS_GLSp 7340.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,fallback_RS_GLSp 7340,972
+raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/7415a13d-68cb-4e1f-bf40-c869c54fe702___RS_GLSp 4511.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,fallback_RS_GLSp 4511,853
+raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/afef777a-61bd-43c8-9159-44e4309b9322___RS_GLSp 7311.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,fallback_RS_GLSp 7311,966
+raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/8da48548-461c-4574-9435-74310d8207a3___RS_GLSp 4387.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,fallback_RS_GLSp 4387,879
+raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/aa7c5620-2ec9-4b2c-9091-8ce30597661e___RS_GLSp 9363.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,fallback_RS_GLSp 9363,985
+raw/color/Corn_(maize)___Common_rust_/RS_Rust 2758.JPG,Corn_(maize)___Common_rust_,fallback_RS_Rust 2758,2733
+raw/color/Corn_(maize)___Common_rust_/RS_Rust 1597.JPG,Corn_(maize)___Common_rust_,fallback_RS_Rust 1597,2502
+raw/color/Corn_(maize)___Common_rust_/RS_Rust 2177.JPG,Corn_(maize)___Common_rust_,fallback_RS_Rust 2177,2828
+raw/color/Corn_(maize)___Common_rust_/RS_Rust 2487.JPG,Corn_(maize)___Common_rust_,fallback_RS_Rust 2487,2994
+raw/color/Corn_(maize)___Common_rust_/RS_Rust 1919.JPG,Corn_(maize)___Common_rust_,fallback_RS_Rust 1919,2942
+raw/color/Corn_(maize)___Common_rust_/RS_Rust 1894.JPG,Corn_(maize)___Common_rust_,fallback_RS_Rust 1894,2435
+raw/color/Corn_(maize)___Common_rust_/RS_Rust 2259.JPG,Corn_(maize)___Common_rust_,fallback_RS_Rust 2259,2710
+raw/color/Corn_(maize)___Common_rust_/RS_Rust 2239.JPG,Corn_(maize)___Common_rust_,fallback_RS_Rust 2239,2848
+raw/color/Corn_(maize)___Common_rust_/RS_Rust 2153.JPG,Corn_(maize)___Common_rust_,fallback_RS_Rust 2153,2932
+raw/color/Corn_(maize)___Common_rust_/RS_Rust 1756.JPG,Corn_(maize)___Common_rust_,fallback_RS_Rust 1756,2614
+raw/color/Grape___Black_rot/0c7369b1-b8f1-4287-8875-fef5f1a5b3ac___FAM_B.Rot 3156.JPG,Grape___Black_rot,Grape___Black_rot:::151.0,3536
+raw/color/Grape___Black_rot/bb4d2497-0f5d-419e-84d3-685883e333b6___FAM_B.Rot 3375.JPG,Grape___Black_rot,Grape___Black_rot:::206.0,4035
+raw/color/Grape___Black_rot/5495808e-cf34-4992-9e68-e93524d5f60e___FAM_B.Rot 3526.JPG,Grape___Black_rot,Grape___Black_rot:::243.0,3364
+raw/color/Grape___Black_rot/dc12cdb2-ec2d-4a5f-97d0-dd5aa4c05806___FAM_B.Rot 3089.JPG,Grape___Black_rot,Grape___Black_rot:::135.0,3348
+raw/color/Grape___Black_rot/bb424988-a1c3-4bef-a4a5-8388c4243795___FAM_B.Rot 0631.JPG,Grape___Black_rot,Grape___Black_rot:::77.0,3445
+raw/color/Grape___Black_rot/24946c4f-660a-4595-9196-4febfaeab66f___FAM_B.Rot 5109.JPG,Grape___Black_rot,Grape___Black_rot:::295.0,3885
+raw/color/Grape___Black_rot/727be1bc-7ae8-474a-9062-95d7682663c5___FAM_B.Rot 3462.JPG,Grape___Black_rot,Grape___Black_rot:::227.0,4204
+raw/color/Grape___Black_rot/de5b642b-8598-4827-b9bd-b528fa031b96___FAM_B.Rot 3499.JPG,Grape___Black_rot,Grape___Black_rot:::237.0,3783
+raw/color/Grape___Black_rot/6f47e933-57e2-4361-8dc2-1f85f7c231dc___FAM_B.Rot 3415.JPG,Grape___Black_rot,Grape___Black_rot:::216.0,3790
+raw/color/Grape___Black_rot/c448ff18-fa6f-4efa-a7f5-813d57279a26___FAM_B.Rot 3059.JPG,Grape___Black_rot,Grape___Black_rot:::127.0,4222
+raw/color/Potato___Early_blight/d91d88d1-89d4-4017-b0f0-9e875bedfcab___RS_Early.B 7201.JPG,Potato___Early_blight,Potato___Early_blight:::71.0,4864
+raw/color/Potato___Early_blight/22b28f50-4141-4ca7-be3f-ccb1c521c2df___RS_Early.B 8285.JPG,Potato___Early_blight,Potato___Early_blight:::186.0,4437
+raw/color/Potato___Early_blight/2b8cfa81-e20f-4c28-b403-2cec2e5c0f2a___RS_Early.B 8145.JPG,Potato___Early_blight,Potato___Early_blight:::173.0,4503
+raw/color/Potato___Early_blight/c5cb3e89-f00f-4032-80ca-eb39bead0796___RS_Early.B 8645.JPG,Potato___Early_blight,Potato___Early_blight:::212.0,4756
+raw/color/Potato___Early_blight/b17bf28e-c272-4a24-9f45-7d3a343de49f___RS_Early.B 7620.JPG,Potato___Early_blight,Potato___Early_blight:::123.0,4433
+raw/color/Potato___Early_blight/c3ce9bae-e62a-4dd9-afa0-f020c48b87cc___RS_Early.B 6704.JPG,Potato___Early_blight,Potato___Early_blight:::5.0,4674
+raw/color/Potato___Early_blight/3b090cee-ba51-44c2-9cc6-4581db95070e___RS_Early.B 7789.JPG,Potato___Early_blight,Potato___Early_blight:::141.0,4710
+raw/color/Potato___Early_blight/dd1e0739-c899-4c1e-99c8-fd83a6d55694___RS_Early.B 7862.JPG,Potato___Early_blight,Potato___Early_blight:::147.0,4620
+raw/color/Potato___Early_blight/3e7543bc-4792-4b65-afd9-f9ccd52b7319___RS_Early.B 8571.JPG,Potato___Early_blight,Potato___Early_blight:::207.0,5025
+raw/color/Potato___Early_blight/7584a5b8-b701-4255-9dde-a60b6442cc37___RS_Early.B 9154.JPG,Potato___Early_blight,Potato___Early_blight:::246.0,4603
+raw/color/Potato___Late_blight/8ee9f477-92a7-43a0-9377-0535b218a21d___RS_LB 5266.JPG,Potato___Late_blight,Potato___Late_blight:::242.0,6
+raw/color/Potato___Late_blight/6637f5da-44b1-43bc-9678-1f1188f1ed7c___RS_LB 4796.JPG,Potato___Late_blight,Potato___Late_blight:::193.0,456
+raw/color/Potato___Late_blight/fdb4e132-c71b-413f-93c0-c863dd4582a7___RS_LB 2582.JPG,Potato___Late_blight,Potato___Late_blight:::10.0,408
+raw/color/Potato___Late_blight/1e3e04cc-3778-4d78-b8f9-d60faa0534b0___RS_LB 5246.JPG,Potato___Late_blight,Potato___Late_blight:::240.0,567
+raw/color/Potato___Late_blight/e956d757-4016-4d20-96a6-6844787ddc46___RS_LB 4815.JPG,Potato___Late_blight,Potato___Late_blight:::194.0,548
+raw/color/Potato___Late_blight/af17b876-b0e7-43ce-95e8-8591066dfdc9___RS_LB 3976.JPG,Potato___Late_blight,Potato___Late_blight:::116.0,325
+raw/color/Potato___Late_blight/ee1e965f-2bee-4a7a-8356-1118c9e41cd3___RS_LB 4120.JPG,Potato___Late_blight,Potato___Late_blight:::136.0,340
+raw/color/Potato___Late_blight/1fa9afe6-69ab-4206-a8b5-487531391a37___RS_LB 3006.JPG,Potato___Late_blight,Potato___Late_blight:::60.0,80
+raw/color/Potato___Late_blight/c6d1bbe7-c1d8-4760-9bb2-a97eac1ca0a8___RS_LB 3838.JPG,Potato___Late_blight,Potato___Late_blight:::99.0,633
+raw/color/Potato___Late_blight/d994fd7e-a338-42c5-ac37-ede01c18999e___RS_LB 5134.JPG,Potato___Late_blight,Potato___Late_blight:::229.0,618
+raw/color/Squash___Powdery_mildew/b0162a95-86ff-48e0-9b83-19f5995d43b5___UMD_Powd.M 0461.JPG,Squash___Powdery_mildew,fallback_UMD_Powd.M 0461,13026
+raw/color/Squash___Powdery_mildew/9b3be1f9-9eac-4f8a-affd-6f26eeeef487___MD_Powd.M 0031.JPG,Squash___Powdery_mildew,fallback_MD_Powd.M 0031,13971
+raw/color/Squash___Powdery_mildew/2d38aca8-11d2-44fe-a995-4309c7dd5d6a___UMD_Powd.M 0099.JPG,Squash___Powdery_mildew,fallback_UMD_Powd.M 0099,14365
+raw/color/Squash___Powdery_mildew/5cdbce30-a66a-4f80-aff2-89ddbd5008d9___MD_Powd.M 0845.JPG,Squash___Powdery_mildew,fallback_MD_Powd.M 0845,13810
+raw/color/Squash___Powdery_mildew/bbf3c23f-1aed-4d87-8dc6-c81f3fcc35ef___MD_Powd.M 0862.JPG,Squash___Powdery_mildew,fallback_MD_Powd.M 0862,13777
+raw/color/Squash___Powdery_mildew/a9f106e7-c9f6-4c27-9b9e-024346086ae4___MD_Powd.M 0592.JPG,Squash___Powdery_mildew,fallback_MD_Powd.M 0592,14439
+raw/color/Squash___Powdery_mildew/982896d5-c5aa-432c-b84f-f8f328d3ed3e___UMD_Powd.M 0724.JPG,Squash___Powdery_mildew,fallback_UMD_Powd.M 0724,14446
+raw/color/Squash___Powdery_mildew/e722bbe1-d7b8-41d0-9fa9-52ccbad4722a___MD_Powd.M 9895.JPG,Squash___Powdery_mildew,fallback_MD_Powd.M 9895,13480
+raw/color/Squash___Powdery_mildew/79d28faf-d14e-4cb7-b5d4-c9c92ebc2e91___UMD_Powd.M 0135.JPG,Squash___Powdery_mildew,fallback_UMD_Powd.M 0135,13892
+raw/color/Squash___Powdery_mildew/65ed1fe2-c507-4590-8767-2a557dd05195___UMD_Powd.M 9778.JPG,Squash___Powdery_mildew,fallback_UMD_Powd.M 9778,13558
+raw/color/Tomato___Bacterial_spot/bcc50c85-c7d1-4da7-a121-e15d028aef69___UF.GRC_BS_Lab Leaf 0295.JPG,Tomato___Bacterial_spot,Tomato___Bacterial_spot:::450.0,6151
+raw/color/Tomato___Bacterial_spot/ed94e669-2770-4452-9698-cfaea67e92d4___GCREC_Bact.Sp 6222.JPG,Tomato___Bacterial_spot,Tomato___Bacterial_spot:::397.0,5987
+raw/color/Tomato___Bacterial_spot/1d2bcd85-fdb7-4294-ba11-eb58373b4474___GCREC_Bact.Sp 3092.JPG,Tomato___Bacterial_spot,Tomato___Bacterial_spot:::37.0,5212
+raw/color/Tomato___Bacterial_spot/fd0edb16-764c-4f1d-8425-d7f67f7564c2___UF.GRC_BS_Lab Leaf 9084.JPG,Tomato___Bacterial_spot,Tomato___Bacterial_spot:::520.0,6409
+raw/color/Tomato___Bacterial_spot/3dd61e20-fb5a-486e-b579-763312c9cf27___GCREC_Bact.Sp 3116.JPG,Tomato___Bacterial_spot,Tomato___Bacterial_spot:::43.0,5341
+raw/color/Tomato___Bacterial_spot/ef79c0ac-b8c5-437b-8d10-971f819b4ab8___GCREC_Bact.Sp 6084.JPG,Tomato___Bacterial_spot,Tomato___Bacterial_spot:::363.0,5479
+raw/color/Tomato___Bacterial_spot/af8921c3-e3f5-434f-a391-cde9cb1fa956___GCREC_Bact.Sp 3384.JPG,Tomato___Bacterial_spot,Tomato___Bacterial_spot:::110.0,6716
+raw/color/Tomato___Bacterial_spot/b16f9d46-69a2-4774-ab87-50159dc34dcc___GCREC_Bact.Sp 3471.JPG,Tomato___Bacterial_spot,Tomato___Bacterial_spot:::132.0,5465
+raw/color/Tomato___Bacterial_spot/d9a91bb5-35d8-459c-8c04-8a155bc6a158___GCREC_Bact.Sp 5592.JPG,Tomato___Bacterial_spot,Tomato___Bacterial_spot:::241.0,6507
+raw/color/Tomato___Bacterial_spot/fa3f0b33-f0a0-4625-b7c9-135bea953d91___GCREC_Bact.Sp 6028.JPG,Tomato___Bacterial_spot,Tomato___Bacterial_spot:::349.0,5188
+raw/color/Tomato___Early_blight/fc296f63-8cb3-42f1-a9c1-f6ed8e49777c___RS_Erly.B 6400.JPG,Tomato___Early_blight,Tomato___Early_blight:::12.0,1589
+raw/color/Tomato___Early_blight/6e673a0a-ad79-489d-bd0a-d96479fd81b5___RS_Erly.B 7441.JPG,Tomato___Early_blight,Tomato___Early_blight:::53.0,1949
+raw/color/Tomato___Early_blight/b86c17e0-d24a-4edf-a67f-c16c421d36ae___RS_Erly.B 7746.JPG,Tomato___Early_blight,Tomato___Early_blight:::127.0,1545
+raw/color/Tomato___Early_blight/b5795f23-792b-47ef-bd5e-5a2a4a01bdc6___RS_Erly.B 7501.JPG,Tomato___Early_blight,Tomato___Early_blight:::66.0,1257
+raw/color/Tomato___Early_blight/f33995ae-6456-476c-b832-4ff4cbaf49f7___RS_Erly.B 7525.JPG,Tomato___Early_blight,Tomato___Early_blight:::72.0,1596
+raw/color/Tomato___Early_blight/8387d34a-777f-457f-82ed-24856d75f0cc___RS_Erly.B 6394.JPG,Tomato___Early_blight,Tomato___Early_blight:::11.0,1664
+raw/color/Tomato___Early_blight/7dc08826-98ed-4885-abfe-85beedbd8cab___RS_Erly.B 9498.JPG,Tomato___Early_blight,Tomato___Early_blight:::220.0,1675
+raw/color/Tomato___Early_blight/10c1d7a4-bd14-4961-9b96-c7047589eccd___RS_Erly.B 7552.JPG,Tomato___Early_blight,Tomato___Early_blight:::78.0,1226
+raw/color/Tomato___Early_blight/591ec786-c9bb-4054-be3a-055f0dbecbd2___RS_Erly.B 7416.JPG,Tomato___Early_blight,Tomato___Early_blight:::47.0,1843
+raw/color/Tomato___Early_blight/a20bd77c-4ecf-473c-89aa-329b1719fbe1___RS_Erly.B 7639.JPG,Tomato___Early_blight,Tomato___Early_blight:::100.0,1744
+raw/color/Tomato___Late_blight/aba6fc41-d333-40a8-b3d4-1d72ac2067fe___GHLB2 Leaf 8691.JPG,Tomato___Late_blight,fallback_GHLB2 Leaf 8691,16320
+raw/color/Tomato___Late_blight/bd10f32e-3a27-4a58-9def-62555e99b223___RS_Late.B 6768.JPG,Tomato___Late_blight,Tomato___Late_blight:::190.0,16265
+raw/color/Tomato___Late_blight/ad81f722-e61f-49a8-aa2d-d3e95fff0aea___GHLB2 Leaf 8717.JPG,Tomato___Late_blight,fallback_GHLB2 Leaf 8717,16163
+raw/color/Tomato___Late_blight/4789c47e-2fcd-4dd5-8a57-818b745c123d___GHLB2 Leaf 8545.JPG,Tomato___Late_blight,fallback_GHLB2 Leaf 8545,15394
+raw/color/Tomato___Late_blight/94531b7b-15e2-4cd3-b6c2-cb3df21c9848___GHLB2 Leaf 8559.JPG,Tomato___Late_blight,fallback_GHLB2 Leaf 8559,16464
+raw/color/Tomato___Late_blight/3a6faf8e-3b27-4498-aca9-45f9e4158a56___GHLB2 Leaf 112.1.JPG,Tomato___Late_blight,fallback_GHLB2 Leaf 112.1,16099
+raw/color/Tomato___Late_blight/052ec825-37a3-4467-a5ea-2e0601c29fbd___RS_Late.B 6786.JPG,Tomato___Late_blight,Tomato___Late_blight:::192.0,16070
+raw/color/Tomato___Late_blight/1869d21d-5461-4378-bddb-8de766b836f7___GHLB Leaf 12 Day 6.JPG,Tomato___Late_blight,fallback_GHLB Leaf 12 Day 6,15770
+raw/color/Tomato___Late_blight/898fbe14-3442-44ae-9638-471ce8efcc2f___GHLB2 Leaf 117.1.JPG,Tomato___Late_blight,fallback_GHLB2 Leaf 117.1,16674
+raw/color/Tomato___Late_blight/d648ce42-6742-44b2-95b9-a01b24e3054a___RS_Late.B 6116.JPG,Tomato___Late_blight,Tomato___Late_blight:::133.0,15782
+raw/color/Tomato___Leaf_Mold/483cc7e3-9fbd-4433-82b4-133c561f994c___Crnl_L.Mold 6537.JPG,Tomato___Leaf_Mold,Tomato___Leaf_Mold:::9.0,15166
+raw/color/Tomato___Leaf_Mold/55cc7d97-c88a-4053-8691-288e94bf96b0___Crnl_L.Mold 9182.JPG,Tomato___Leaf_Mold,Tomato___Leaf_Mold:::238.0,14812
+raw/color/Tomato___Leaf_Mold/9332f136-9cb8-4b78-b6fa-507b03fc6d6a___Crnl_L.Mold 6764.JPG,Tomato___Leaf_Mold,Tomato___Leaf_Mold:::53.0,14926
+raw/color/Tomato___Leaf_Mold/e8e4c7fa-6c75-470a-888a-0763cade48bc___Crnl_L.Mold 7099.JPG,Tomato___Leaf_Mold,Tomato___Leaf_Mold:::117.0,15196
+raw/color/Tomato___Leaf_Mold/92d81c31-4944-43b3-b205-89f0c6370ad2___Crnl_L.Mold 6623.JPG,Tomato___Leaf_Mold,Tomato___Leaf_Mold:::25.0,14554
+raw/color/Tomato___Leaf_Mold/3ceb9ab8-dc0e-4f17-a6fb-224b0b8b2e4f___Crnl_L.Mold 8839.JPG,Tomato___Leaf_Mold,Tomato___Leaf_Mold:::174.0,14976
+raw/color/Tomato___Leaf_Mold/77b74ab1-43d3-4d49-b901-e6e19ee0f200___Crnl_L.Mold 9063.JPG,Tomato___Leaf_Mold,Tomato___Leaf_Mold:::214.0,15111
+raw/color/Tomato___Leaf_Mold/7cf9cb31-1121-4ebe-b973-56c388d8f450___Crnl_L.Mold 6662.JPG,Tomato___Leaf_Mold,Tomato___Leaf_Mold:::33.0,14511
+raw/color/Tomato___Leaf_Mold/e710a5d8-3d50-4382-9786-931ca51ba797___Crnl_L.Mold 6851.JPG,Tomato___Leaf_Mold,Tomato___Leaf_Mold:::69.0,14633
+raw/color/Tomato___Leaf_Mold/6b56547b-6d59-40ef-852a-b3cf29f779b4___Crnl_L.Mold 8902.JPG,Tomato___Leaf_Mold,Tomato___Leaf_Mold:::184.0,14495
+raw/color/Tomato___Septoria_leaf_spot/bb649ab8-c07f-4d62-a186-e2cc4963dd6b___Matt.S_CG 2652.JPG,Tomato___Septoria_leaf_spot,Tomato___Septoria_leaf_spot:::90.0,7344
+raw/color/Tomato___Septoria_leaf_spot/d535908b-c781-41c5-9afc-b7aa0358d466___JR_Sept.L.S 8389.JPG,Tomato___Septoria_leaf_spot,fallback_JR_Sept.L.S 8389,8483
+raw/color/Tomato___Septoria_leaf_spot/8d9de432-48bb-4a21-9288-6ea97064edb8___Keller.St_CG 1917.JPG,Tomato___Septoria_leaf_spot,fallback_Keller.St_CG 1917,8700
+raw/color/Tomato___Septoria_leaf_spot/9aa8aa5c-9771-49c7-b5b5-e0a1128ff76b___JR_Sept.L.S 2702.JPG,Tomato___Septoria_leaf_spot,fallback_JR_Sept.L.S 2702,8285
+raw/color/Tomato___Septoria_leaf_spot/a8ef94be-07d4-45ed-82de-d2070f14861a___JR_Sept.L.S 2554.JPG,Tomato___Septoria_leaf_spot,fallback_JR_Sept.L.S 2554,7943
+raw/color/Tomato___Septoria_leaf_spot/f3e6061a-4425-4975-98e1-bfac4dc21a0e___Keller.St_CG 1938.JPG,Tomato___Septoria_leaf_spot,fallback_Keller.St_CG 1938,8528
+raw/color/Tomato___Septoria_leaf_spot/22368f32-693c-4a7f-b235-76f020778d18___Matt.S_CG 6918.JPG,Tomato___Septoria_leaf_spot,Tomato___Septoria_leaf_spot:::173.0,7557
+raw/color/Tomato___Septoria_leaf_spot/321a737f-773e-47ec-adb6-5f084d74adfb___Keller.St_CG 1994.JPG,Tomato___Septoria_leaf_spot,fallback_Keller.St_CG 1994,8726
+raw/color/Tomato___Septoria_leaf_spot/f8e19e45-a84d-4292-8849-8849518a2d4f___JR_Sept.L.S 8517.JPG,Tomato___Septoria_leaf_spot,fallback_JR_Sept.L.S 8517,8308
+raw/color/Tomato___Septoria_leaf_spot/aa2e8d77-1574-4c3a-9db6-b2982cec9006___JR_Sept.L.S 8438.JPG,Tomato___Septoria_leaf_spot,fallback_JR_Sept.L.S 8438,7992
+raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/a13f4aee-7d42-4194-92ba-48c9acedf592___UF.GRC_YLCV_Lab 02322.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,fallback_UF.GRC_YLCV_Lab 02322,12253
+raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/95f6eefd-e3f9-40ee-a6bd-7189b60c7fca___UF.GRC_YLCV_Lab 02069.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,fallback_UF.GRC_YLCV_Lab 02069,12465
+raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/9244f1d0-c42b-49aa-99cf-eb2830a09939___UF.GRC_YLCV_Lab 02559.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,fallback_UF.GRC_YLCV_Lab 02559,9619
+raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/743f6b65-92df-4809-ad64-ea3cf64ccffb___UF.GRC_YLCV_Lab 03074.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,fallback_UF.GRC_YLCV_Lab 03074,11381
+raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/92d50995-b924-4c8c-97d9-5083effeb227___UF.GRC_YLCV_Lab 09611.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,fallback_UF.GRC_YLCV_Lab 09611,8877
+raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/ed1d52ff-5971-4c9a-bdde-3de21492f57c___UF.GRC_YLCV_Lab 03230.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,fallback_UF.GRC_YLCV_Lab 03230,12247
+raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/dc4756b0-aca4-4bad-a224-c6a3be0708bf___YLCV_GCREC 5239.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus:::294.0,11666
+raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/8c1234b1-6565-467e-aab8-200f135f7f09___UF.GRC_YLCV_Lab 03148.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,fallback_UF.GRC_YLCV_Lab 03148,12761
+raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/d2fb0421-a7e2-4ddc-a2db-dfb0969a5a64___UF.GRC_YLCV_Lab 03142.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,fallback_UF.GRC_YLCV_Lab 03142,11978
+raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/1dd0d62f-7ef7-477f-b781-83423446a1f5___UF.GRC_YLCV_Lab 01580.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,fallback_UF.GRC_YLCV_Lab 01580,10772
+raw/color/Tomato___Tomato_mosaic_virus/9fb02b86-77fe-450a-a85e-276cf7d1c1fb___PSU_CG 2376.JPG,Tomato___Tomato_mosaic_virus,fallback_PSU_CG 2376,2046
+raw/color/Tomato___Tomato_mosaic_virus/2f240e5e-cbb9-406a-98aa-12028411429c___PSU_CG 2123.JPG,Tomato___Tomato_mosaic_virus,fallback_PSU_CG 2123,2215
+raw/color/Tomato___Tomato_mosaic_virus/0bf3eb4c-e2cd-4e72-8834-4fc045bd67ae___PSU_CG 2414.JPG,Tomato___Tomato_mosaic_virus,fallback_PSU_CG 2414,1992
+raw/color/Tomato___Tomato_mosaic_virus/597a2eac-2596-4aed-9b6c-0ec234998ed8___PSU_CG 2210.JPG,Tomato___Tomato_mosaic_virus,fallback_PSU_CG 2210,2131
+raw/color/Tomato___Tomato_mosaic_virus/983cd485-5bc8-46a0-94cc-26c522228508___PSU_CG 2397.JPG,Tomato___Tomato_mosaic_virus,fallback_PSU_CG 2397,2095
+raw/color/Tomato___Tomato_mosaic_virus/a72414b0-f520-4044-abeb-cd09c28b4a9f___PSU_CG 2267.JPG,Tomato___Tomato_mosaic_virus,fallback_PSU_CG 2267,2213
+raw/color/Tomato___Tomato_mosaic_virus/b8853fe7-7194-4ed8-bda6-b5799bf7815e___PSU_CG 2309.JPG,Tomato___Tomato_mosaic_virus,fallback_PSU_CG 2309,2148
+raw/color/Tomato___Tomato_mosaic_virus/2afd76a3-68f8-42cf-a68a-2f3076168dc0___PSU_CG 2260.JPG,Tomato___Tomato_mosaic_virus,fallback_PSU_CG 2260,2020
+raw/color/Tomato___Tomato_mosaic_virus/71aa5741-6923-4593-9a23-bc7f58dc40b2___PSU_CG 2183.JPG,Tomato___Tomato_mosaic_virus,fallback_PSU_CG 2183,2190
+raw/color/Tomato___Tomato_mosaic_virus/c3ddea5d-2076-46cf-8769-0d200185c259___PSU_CG 2348.JPG,Tomato___Tomato_mosaic_virus,fallback_PSU_CG 2348,2075

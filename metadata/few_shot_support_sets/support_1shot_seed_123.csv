@@ -1,0 +1,15 @@
+image_path,class_name,leaf_id,embedding_index
+raw/color/Apple___Apple_scab/ecbac6b5-e07f-4a0d-a670-1d3b97f01104___FREC_Scab 3168.JPG,Apple___Apple_scab,Apple___Apple_scab:::50.0,7283
+raw/color/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/77ae7d6f-8373-481e-b216-6fec69f06145___RS_GLSp 4622.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,fallback_RS_GLSp 4622,1151
+raw/color/Corn_(maize)___Common_rust_/RS_Rust 2026.JPG,Corn_(maize)___Common_rust_,fallback_RS_Rust 2026,2484
+raw/color/Grape___Black_rot/1b9b236c-8b25-4473-b3d3-e83c7218cb3b___FAM_B.Rot 3290.JPG,Grape___Black_rot,Grape___Black_rot:::185.0,3580
+raw/color/Potato___Early_blight/6a903f3e-0c90-4b97-aad7-bdb1d07cb11e___RS_Early.B 6765.JPG,Potato___Early_blight,Potato___Early_blight:::12.0,5069
+raw/color/Potato___Late_blight/b0e6c386-35dc-4982-acc6-f393c7f58c67___RS_LB 5036.JPG,Potato___Late_blight,Potato___Late_blight:::221.0,719
+raw/color/Squash___Powdery_mildew/03ef962a-db63-4e3c-8f50-8bc174946f44___UMD_Powd.M 0613.JPG,Squash___Powdery_mildew,fallback_UMD_Powd.M 0613,13562
+raw/color/Tomato___Bacterial_spot/6855445b-ec04-42c0-bc12-ee8ff64420a0___GCREC_Bact.Sp 3268.JPG,Tomato___Bacterial_spot,Tomato___Bacterial_spot:::81.0,6776
+raw/color/Tomato___Early_blight/9664a85d-6c90-46d7-98e6-cbf1b99cc53e___RS_Erly.B 7503.JPG,Tomato___Early_blight,Tomato___Early_blight:::66.0,1256
+raw/color/Tomato___Late_blight/c042e7e2-a583-4709-b944-830965256802___GHLB2 Leaf 110.JPG,Tomato___Late_blight,fallback_GHLB2 Leaf 110,15312
+raw/color/Tomato___Leaf_Mold/22d04ec1-94b9-4716-a441-ae6c40232131___Crnl_L.Mold 8744.JPG,Tomato___Leaf_Mold,Tomato___Leaf_Mold:::155.0,14610
+raw/color/Tomato___Septoria_leaf_spot/ef400a6e-01e7-4bca-958d-297de941eaaa___JR_Sept.L.S 2541.JPG,Tomato___Septoria_leaf_spot,fallback_JR_Sept.L.S 2541,7783
+raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus/69a12f9a-b9e2-498b-b244-17e6cdefee0e___YLCV_NREC 2110.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus:::465.0,9628
+raw/color/Tomato___Tomato_mosaic_virus/b8972ee2-b576-4fdd-bb69-f8c43b87471b___PSU_CG 2060.JPG,Tomato___Tomato_mosaic_virus,fallback_PSU_CG 2060,2072

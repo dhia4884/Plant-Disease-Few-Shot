@@ -1,0 +1,7 @@
+shots,domain,best_model,mean_macro_f1
+1,PlantVillage,Linear Probe,0.597050488611952
+1,PlantDoc,Prototype Refinement,0.2888296495923459
+5,PlantVillage,Linear Probe,0.7748323434696044
+5,PlantDoc,kNN,0.3535143561283498
+10,PlantVillage,Linear Probe,0.82530601722209
+10,PlantDoc,Prototype Refinement,0.3726913464501216

@@ -1,0 +1,79 @@
+
+# ==========================================
+# Python
+# ==========================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter / Colab checkpoints
+.ipynb_checkpoints/
+.colab/
+
+# ==========================================
+# Large datasets and image collections
+# ==========================================
+data/
+datasets/
+raw_data/
+PlantVillage/
+PlantDoc/
+
+# ==========================================
+# Extracted features and model artifacts
+# ==========================================
+features/
+embeddings/
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# ==========================================
+# Temporary and backup files
+# ==========================================
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+.DS_Store
+Thumbs.db
+
+# ==========================================
+# LaTeX temporary files
+# ==========================================
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# ==========================================
+# Environment and secrets
+# ==========================================
+.env
+.env.*
+!.env.example
+*.pem
+*.key

@@ -1,0 +1,4 @@
+seed,prototype_macro_f1,refinement_macro_f1,macro_f1_difference,ci_95_lower,ci_95_upper,bootstrap_positive_fraction
+42,0.361027,0.380819,0.019792,-0.003362,0.049181,0.8993
+123,0.348354,0.3506,0.002246,-0.00105,0.007643,0.7403
+2026,0.365023,0.386655,0.021632,-0.021002,0.063135,0.8268

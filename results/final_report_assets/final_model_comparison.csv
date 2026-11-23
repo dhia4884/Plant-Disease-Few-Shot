@@ -1,0 +1,25 @@
+model,shots,dataset,macro_f1_mean,macro_f1_std,accuracy_mean,macro_f1_mean_std
+kNN,1,PlantDoc,0.276328,0.037269,0.293578,0.2763 ± 0.0373
+kNN,5,PlantDoc,0.353514,0.014224,0.360856,0.3535 ± 0.0142
+kNN,10,PlantDoc,0.353714,0.064175,0.363914,0.3537 ± 0.0642
+kNN,1,PlantVillage,0.575061,0.010587,0.602982,0.5751 ± 0.0106
+kNN,5,PlantVillage,0.678927,0.009745,0.684627,0.6789 ± 0.0097
+kNN,10,PlantVillage,0.712842,0.016921,0.725985,0.7128 ± 0.0169
+Linear Probe,1,PlantDoc,0.284449,0.071413,0.308869,0.2844 ± 0.0714
+Linear Probe,5,PlantDoc,0.351084,0.00216,0.373089,0.3511 ± 0.0022
+Linear Probe,10,PlantDoc,0.33681,0.016878,0.35474,0.3368 ± 0.0169
+Linear Probe,1,PlantVillage,0.59705,0.009418,0.632312,0.5970 ± 0.0094
+Linear Probe,5,PlantVillage,0.774832,0.016851,0.790163,0.7748 ± 0.0169
+Linear Probe,10,PlantVillage,0.825306,0.019839,0.83391,0.8253 ± 0.0198
+Prototype,1,PlantDoc,0.276328,0.037269,0.293578,0.2763 ± 0.0373
+Prototype,5,PlantDoc,0.350962,0.035284,0.360856,0.3510 ± 0.0353
+Prototype,10,PlantDoc,0.358135,0.008703,0.366972,0.3581 ± 0.0087
+Prototype,1,PlantVillage,0.575061,0.010587,0.602982,0.5751 ± 0.0106
+Prototype,5,PlantVillage,0.741546,0.00911,0.753996,0.7415 ± 0.0091
+Prototype,10,PlantVillage,0.769682,0.010375,0.787197,0.7697 ± 0.0104
+Prototype Refinement,1,PlantDoc,0.28883,0.023165,0.308869,0.2888 ± 0.0232
+Prototype Refinement,5,PlantDoc,0.336551,0.032703,0.351682,0.3366 ± 0.0327
+Prototype Refinement,10,PlantDoc,0.372691,0.019353,0.379205,0.3727 ± 0.0194
+Prototype Refinement,1,PlantVillage,0.57494,0.01236,0.601829,0.5749 ± 0.0124
+Prototype Refinement,5,PlantVillage,0.749039,0.013319,0.76001,0.7490 ± 0.0133
+Prototype Refinement,10,PlantVillage,0.773203,0.014986,0.790081,0.7732 ± 0.0150

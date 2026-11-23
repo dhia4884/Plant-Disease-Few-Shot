@@ -1,0 +1,337 @@
+model,domain,seed,class_id,class_name,precision,recall,f1_score,support
+kNN,PlantVillage,42,0,Apple___Apple_scab,0.984251968503937,0.984251968503937,0.984251968503937,127.0
+kNN,PlantVillage,42,1,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.975,0.8863636363636364,0.9285714285714286,88.0
+kNN,PlantVillage,42,2,Corn_(maize)___Common_rust_,0.9388646288209607,0.9907834101382489,0.9641255605381166,217.0
+kNN,PlantVillage,42,3,Grape___Black_rot,0.9824561403508771,1.0,0.9911504424778761,168.0
+kNN,PlantVillage,42,4,Potato___Early_blight,0.6343612334801763,0.8780487804878049,0.7365728900255755,164.0
+kNN,PlantVillage,42,5,Potato___Late_blight,0.8325581395348837,0.8443396226415094,0.8384074941451991,212.0
+kNN,PlantVillage,42,6,Squash___Powdery_mildew,0.9919137466307277,0.989247311827957,0.990578734858681,372.0
+kNN,PlantVillage,42,7,Tomato___Bacterial_spot,0.7505938242280285,0.7247706422018348,0.7374562427071178,436.0
+kNN,PlantVillage,42,8,Tomato___Early_blight,0.3612167300380228,0.4418604651162791,0.39748953974895396,215.0
+kNN,PlantVillage,42,9,Tomato___Late_blight,0.8512820512820513,0.44623655913978494,0.5855379188712522,372.0
+kNN,PlantVillage,42,10,Tomato___Leaf_Mold,0.47685185185185186,0.5988372093023255,0.5309278350515464,172.0
+kNN,PlantVillage,42,11,Tomato___Septoria_leaf_spot,0.4382716049382716,0.42136498516320475,0.4296520423600605,337.0
+kNN,PlantVillage,42,12,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.9941588785046729,0.7736363636363637,0.8701431492842536,1100.0
+kNN,PlantVillage,42,13,Tomato___Tomato_mosaic_virus,0.15669515669515668,0.8333333333333334,0.2637889688249401,66.0
+Linear Probe,PlantVillage,42,0,Apple___Apple_scab,0.991869918699187,0.9606299212598425,0.976,127.0
+Linear Probe,PlantVillage,42,1,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9886363636363636,0.9886363636363636,0.9886363636363636,88.0
+Linear Probe,PlantVillage,42,2,Corn_(maize)___Common_rust_,0.9773755656108597,0.9953917050691244,0.9863013698630136,217.0
+Linear Probe,PlantVillage,42,3,Grape___Black_rot,1.0,1.0,1.0,168.0
+Linear Probe,PlantVillage,42,4,Potato___Early_blight,0.7363636363636363,0.9878048780487805,0.84375,164.0
+Linear Probe,PlantVillage,42,5,Potato___Late_blight,0.973404255319149,0.8632075471698113,0.915,212.0
+Linear Probe,PlantVillage,42,6,Squash___Powdery_mildew,1.0,1.0,1.0,372.0
+Linear Probe,PlantVillage,42,7,Tomato___Bacterial_spot,0.7894736842105263,0.8944954128440367,0.8387096774193549,436.0
+Linear Probe,PlantVillage,42,8,Tomato___Early_blight,0.4232081911262799,0.5767441860465117,0.4881889763779528,215.0
+Linear Probe,PlantVillage,42,9,Tomato___Late_blight,0.8648648648648649,0.6021505376344086,0.7099841521394612,372.0
+Linear Probe,PlantVillage,42,10,Tomato___Leaf_Mold,0.6007905138339921,0.8837209302325582,0.7152941176470589,172.0
+Linear Probe,PlantVillage,42,11,Tomato___Septoria_leaf_spot,0.7983539094650206,0.5756676557863502,0.6689655172413793,337.0
+Linear Probe,PlantVillage,42,12,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.9968684759916493,0.8681818181818182,0.9280855199222546,1100.0
+Linear Probe,PlantVillage,42,13,Tomato___Tomato_mosaic_virus,0.35542168674698793,0.8939393939393939,0.5086206896551724,66.0
+Prototype,PlantVillage,42,0,Apple___Apple_scab,1.0,0.9763779527559056,0.9880478087649402,127.0
+Prototype,PlantVillage,42,1,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9302325581395349,0.9090909090909091,0.9195402298850575,88.0
+Prototype,PlantVillage,42,2,Corn_(maize)___Common_rust_,0.9634703196347032,0.9723502304147466,0.9678899082568807,217.0
+Prototype,PlantVillage,42,3,Grape___Black_rot,0.9940828402366864,1.0,0.9970326409495549,168.0
+Prototype,PlantVillage,42,4,Potato___Early_blight,0.6593886462882096,0.9207317073170732,0.7684478371501272,164.0
+Prototype,PlantVillage,42,5,Potato___Late_blight,0.7748917748917749,0.8443396226415094,0.8081264108352144,212.0
+Prototype,PlantVillage,42,6,Squash___Powdery_mildew,1.0,0.9946236559139785,0.9973045822102425,372.0
+Prototype,PlantVillage,42,7,Tomato___Bacterial_spot,0.739406779661017,0.8004587155963303,0.7687224669603524,436.0
+Prototype,PlantVillage,42,8,Tomato___Early_blight,0.29411764705882354,0.4883720930232558,0.36713286713286714,215.0
+Prototype,PlantVillage,42,9,Tomato___Late_blight,0.9010989010989011,0.44086021505376344,0.592057761732852,372.0
+Prototype,PlantVillage,42,10,Tomato___Leaf_Mold,0.4570552147239264,0.8662790697674418,0.5983935742971888,172.0
+Prototype,PlantVillage,42,11,Tomato___Septoria_leaf_spot,0.732,0.543026706231454,0.6235093696763203,337.0
+Prototype,PlantVillage,42,12,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.9953106682297772,0.7718181818181818,0.869431643625192,1100.0
+Prototype,PlantVillage,42,13,Tomato___Tomato_mosaic_virus,0.2752808988764045,0.7424242424242424,0.4016393442622951,66.0
+Prototype Refinement,PlantVillage,42,0,Apple___Apple_scab,1.0,0.9763779527559056,0.9880478087649402,127.0
+Prototype Refinement,PlantVillage,42,1,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9302325581395349,0.9090909090909091,0.9195402298850575,88.0
+Prototype Refinement,PlantVillage,42,2,Corn_(maize)___Common_rust_,0.9634703196347032,0.9723502304147466,0.9678899082568807,217.0
+Prototype Refinement,PlantVillage,42,3,Grape___Black_rot,0.9940828402366864,1.0,0.9970326409495549,168.0
+Prototype Refinement,PlantVillage,42,4,Potato___Early_blight,0.6727272727272727,0.9024390243902439,0.7708333333333334,164.0
+Prototype Refinement,PlantVillage,42,5,Potato___Late_blight,0.759493670886076,0.8490566037735849,0.8017817371937639,212.0
+Prototype Refinement,PlantVillage,42,6,Squash___Powdery_mildew,1.0,0.9946236559139785,0.9973045822102425,372.0
+Prototype Refinement,PlantVillage,42,7,Tomato___Bacterial_spot,0.7461706783369803,0.7821100917431193,0.7637178051511758,436.0
+Prototype Refinement,PlantVillage,42,8,Tomato___Early_blight,0.28421052631578947,0.5023255813953489,0.3630252100840336,215.0
+Prototype Refinement,PlantVillage,42,9,Tomato___Late_blight,0.8817204301075269,0.44086021505376344,0.5878136200716846,372.0
+Prototype Refinement,PlantVillage,42,10,Tomato___Leaf_Mold,0.4646153846153846,0.877906976744186,0.607645875251509,172.0
+Prototype Refinement,PlantVillage,42,11,Tomato___Septoria_leaf_spot,0.7315175097276264,0.5578635014836796,0.632996632996633,337.0
+Prototype Refinement,PlantVillage,42,12,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.9952774498229043,0.7663636363636364,0.8659476117103235,1100.0
+Prototype Refinement,PlantVillage,42,13,Tomato___Tomato_mosaic_virus,0.27218934911242604,0.696969696969697,0.39148936170212767,66.0
+kNN,PlantDoc,42,0,Apple___Apple_scab,1.0,0.7,0.8235294117647058,10.0
+kNN,PlantDoc,42,1,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.25,1.0,0.4,3.0
+kNN,PlantDoc,42,2,Corn_(maize)___Common_rust_,1.0,0.2,0.3333333333333333,10.0
+kNN,PlantDoc,42,3,Grape___Black_rot,0.8888888888888888,1.0,0.9411764705882353,8.0
+kNN,PlantDoc,42,4,Potato___Early_blight,0.25,0.42857142857142855,0.3157894736842105,7.0
+kNN,PlantDoc,42,5,Potato___Late_blight,0.16666666666666666,0.2,0.18181818181818182,5.0
+kNN,PlantDoc,42,6,Squash___Powdery_mildew,1.0,0.8333333333333334,0.9090909090909091,6.0
+kNN,PlantDoc,42,7,Tomato___Bacterial_spot,0.2222222222222222,0.25,0.23529411764705882,8.0
+kNN,PlantDoc,42,8,Tomato___Early_blight,0.16666666666666666,0.1111111111111111,0.13333333333333333,9.0
+kNN,PlantDoc,42,9,Tomato___Late_blight,0.375,0.3,0.3333333333333333,10.0
+kNN,PlantDoc,42,10,Tomato___Leaf_Mold,0.375,0.5,0.42857142857142855,6.0
+kNN,PlantDoc,42,11,Tomato___Septoria_leaf_spot,0.125,0.09090909090909091,0.10526315789473684,11.0
+kNN,PlantDoc,42,12,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.36363636363636365,0.6666666666666666,0.47058823529411764,6.0
+kNN,PlantDoc,42,13,Tomato___Tomato_mosaic_virus,0.5,0.3,0.375,10.0
+Linear Probe,PlantDoc,42,0,Apple___Apple_scab,1.0,0.4,0.5714285714285714,10.0
+Linear Probe,PlantDoc,42,1,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.23076923076923078,1.0,0.375,3.0
+Linear Probe,PlantDoc,42,2,Corn_(maize)___Common_rust_,0.0,0.0,0.0,10.0
+Linear Probe,PlantDoc,42,3,Grape___Black_rot,0.8,1.0,0.8888888888888888,8.0
+Linear Probe,PlantDoc,42,4,Potato___Early_blight,0.07692307692307693,0.14285714285714285,0.1,7.0
+Linear Probe,PlantDoc,42,5,Potato___Late_blight,0.2,0.2,0.2,5.0
+Linear Probe,PlantDoc,42,6,Squash___Powdery_mildew,1.0,0.6666666666666666,0.8,6.0
+Linear Probe,PlantDoc,42,7,Tomato___Bacterial_spot,0.0,0.0,0.0,8.0
+Linear Probe,PlantDoc,42,8,Tomato___Early_blight,1.0,0.1111111111111111,0.2,9.0
+Linear Probe,PlantDoc,42,9,Tomato___Late_blight,0.2413793103448276,0.7,0.358974358974359,10.0
+Linear Probe,PlantDoc,42,10,Tomato___Leaf_Mold,0.3076923076923077,0.6666666666666666,0.42105263157894735,6.0
+Linear Probe,PlantDoc,42,11,Tomato___Septoria_leaf_spot,0.3333333333333333,0.09090909090909091,0.14285714285714285,11.0
+Linear Probe,PlantDoc,42,12,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.2222222222222222,0.3333333333333333,0.26666666666666666,6.0
+Linear Probe,PlantDoc,42,13,Tomato___Tomato_mosaic_virus,0.5,0.1,0.16666666666666666,10.0
+Prototype,PlantDoc,42,0,Apple___Apple_scab,1.0,0.5,0.6666666666666666,10.0
+Prototype,PlantDoc,42,1,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.23076923076923078,1.0,0.375,3.0
+Prototype,PlantDoc,42,2,Corn_(maize)___Common_rust_,0.0,0.0,0.0,10.0
+Prototype,PlantDoc,42,3,Grape___Black_rot,0.7272727272727273,1.0,0.8421052631578947,8.0
+Prototype,PlantDoc,42,4,Potato___Early_blight,0.08333333333333333,0.14285714285714285,0.10526315789473684,7.0
+Prototype,PlantDoc,42,5,Potato___Late_blight,0.3333333333333333,0.6,0.42857142857142855,5.0
+Prototype,PlantDoc,42,6,Squash___Powdery_mildew,1.0,0.5,0.6666666666666666,6.0
+Prototype,PlantDoc,42,7,Tomato___Bacterial_spot,0.0,0.0,0.0,8.0
+Prototype,PlantDoc,42,8,Tomato___Early_blight,0.25,0.2222222222222222,0.23529411764705882,9.0
+Prototype,PlantDoc,42,9,Tomato___Late_blight,0.375,0.3,0.3333333333333333,10.0
+Prototype,PlantDoc,42,10,Tomato___Leaf_Mold,0.3076923076923077,0.6666666666666666,0.42105263157894735,6.0
+Prototype,PlantDoc,42,11,Tomato___Septoria_leaf_spot,0.2727272727272727,0.2727272727272727,0.2727272727272727,11.0
+Prototype,PlantDoc,42,12,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.2857142857142857,0.3333333333333333,0.3076923076923077,6.0
+Prototype,PlantDoc,42,13,Tomato___Tomato_mosaic_virus,0.6,0.3,0.4,10.0
+Prototype Refinement,PlantDoc,42,0,Apple___Apple_scab,1.0,0.5,0.6666666666666666,10.0
+Prototype Refinement,PlantDoc,42,1,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.23076923076923078,1.0,0.375,3.0
+Prototype Refinement,PlantDoc,42,2,Corn_(maize)___Common_rust_,0.0,0.0,0.0,10.0
+Prototype Refinement,PlantDoc,42,3,Grape___Black_rot,0.7272727272727273,1.0,0.8421052631578947,8.0
+Prototype Refinement,PlantDoc,42,4,Potato___Early_blight,0.09090909090909091,0.14285714285714285,0.1111111111111111,7.0
+Prototype Refinement,PlantDoc,42,5,Potato___Late_blight,0.4,0.8,0.5333333333333333,5.0
+Prototype Refinement,PlantDoc,42,6,Squash___Powdery_mildew,1.0,0.5,0.6666666666666666,6.0
+Prototype Refinement,PlantDoc,42,7,Tomato___Bacterial_spot,0.3333333333333333,0.125,0.18181818181818182,8.0
+Prototype Refinement,PlantDoc,42,8,Tomato___Early_blight,0.2857142857142857,0.2222222222222222,0.25,9.0
+Prototype Refinement,PlantDoc,42,9,Tomato___Late_blight,0.375,0.3,0.3333333333333333,10.0
+Prototype Refinement,PlantDoc,42,10,Tomato___Leaf_Mold,0.2857142857142857,0.6666666666666666,0.4,6.0
+Prototype Refinement,PlantDoc,42,11,Tomato___Septoria_leaf_spot,0.3,0.2727272727272727,0.2857142857142857,11.0
+Prototype Refinement,PlantDoc,42,12,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.25,0.3333333333333333,0.2857142857142857,6.0
+Prototype Refinement,PlantDoc,42,13,Tomato___Tomato_mosaic_virus,0.6,0.3,0.4,10.0
+kNN,PlantVillage,123,0,Apple___Apple_scab,0.984375,0.9921259842519685,0.9882352941176471,127.0
+kNN,PlantVillage,123,1,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.635036496350365,0.9886363636363636,0.7733333333333333,88.0
+kNN,PlantVillage,123,2,Corn_(maize)___Common_rust_,0.9488636363636364,0.7695852534562212,0.8498727735368957,217.0
+kNN,PlantVillage,123,3,Grape___Black_rot,0.9882352941176471,1.0,0.9940828402366864,168.0
+kNN,PlantVillage,123,4,Potato___Early_blight,0.5687732342007435,0.9329268292682927,0.7066974595842956,164.0
+kNN,PlantVillage,123,5,Potato___Late_blight,0.6974358974358974,0.6415094339622641,0.6683046683046683,212.0
+kNN,PlantVillage,123,6,Squash___Powdery_mildew,1.0,0.9946236559139785,0.9973045822102425,372.0
+kNN,PlantVillage,123,7,Tomato___Bacterial_spot,0.6786516853932584,0.6926605504587156,0.6855845629965948,436.0
+kNN,PlantVillage,123,8,Tomato___Early_blight,0.3789954337899543,0.386046511627907,0.3824884792626728,215.0
+kNN,PlantVillage,123,9,Tomato___Late_blight,0.6343283582089553,0.45698924731182794,0.53125,372.0
+kNN,PlantVillage,123,10,Tomato___Leaf_Mold,0.36823104693140796,0.5930232558139535,0.45434298440979953,172.0
+kNN,PlantVillage,123,11,Tomato___Septoria_leaf_spot,0.5723076923076923,0.5519287833827893,0.5619335347432024,337.0
+kNN,PlantVillage,123,12,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.9949494949494949,0.7163636363636363,0.8329809725158562,1100.0
+kNN,PlantVillage,123,13,Tomato___Tomato_mosaic_virus,0.23272727272727273,0.9696969696969697,0.375366568914956,66.0
+Linear Probe,PlantVillage,123,0,Apple___Apple_scab,0.9615384615384616,0.984251968503937,0.9727626459143969,127.0
+Linear Probe,PlantVillage,123,1,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.88,1.0,0.9361702127659575,88.0
+Linear Probe,PlantVillage,123,2,Corn_(maize)___Common_rust_,0.9579439252336449,0.9447004608294931,0.951276102088167,217.0
+Linear Probe,PlantVillage,123,3,Grape___Black_rot,1.0,1.0,1.0,168.0
+Linear Probe,PlantVillage,123,4,Potato___Early_blight,0.828125,0.9695121951219512,0.8932584269662921,164.0
+Linear Probe,PlantVillage,123,5,Potato___Late_blight,0.8034188034188035,0.8867924528301887,0.8430493273542601,212.0
+Linear Probe,PlantVillage,123,6,Squash___Powdery_mildew,1.0,1.0,1.0,372.0
+Linear Probe,PlantVillage,123,7,Tomato___Bacterial_spot,0.8291571753986332,0.8348623853211009,0.832,436.0
+Linear Probe,PlantVillage,123,8,Tomato___Early_blight,0.5473251028806584,0.6186046511627907,0.5807860262008734,215.0
+Linear Probe,PlantVillage,123,9,Tomato___Late_blight,0.8556701030927835,0.6693548387096774,0.751131221719457,372.0
+Linear Probe,PlantVillage,123,10,Tomato___Leaf_Mold,0.5802469135802469,0.8197674418604651,0.6795180722891566,172.0
+Linear Probe,PlantVillage,123,11,Tomato___Septoria_leaf_spot,0.75,0.8100890207715133,0.7788873038516405,337.0
+Linear Probe,PlantVillage,123,12,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.9957983193277311,0.8618181818181818,0.9239766081871345,1100.0
+Linear Probe,PlantVillage,123,13,Tomato___Tomato_mosaic_virus,0.5576923076923077,0.8787878787878788,0.6823529411764706,66.0
+Prototype,PlantVillage,123,0,Apple___Apple_scab,0.9921875,1.0,0.996078431372549,127.0
+Prototype,PlantVillage,123,1,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.635036496350365,0.9886363636363636,0.7733333333333333,88.0
+Prototype,PlantVillage,123,2,Corn_(maize)___Common_rust_,0.9766081871345029,0.7695852534562212,0.8608247422680413,217.0
+Prototype,PlantVillage,123,3,Grape___Black_rot,1.0,1.0,1.0,168.0
+Prototype,PlantVillage,123,4,Potato___Early_blight,0.6864406779661016,0.9878048780487805,0.81,164.0
+Prototype,PlantVillage,123,5,Potato___Late_blight,0.7142857142857143,0.7547169811320755,0.7339449541284404,212.0
+Prototype,PlantVillage,123,6,Squash___Powdery_mildew,1.0,1.0,1.0,372.0
+Prototype,PlantVillage,123,7,Tomato___Bacterial_spot,0.7882096069868996,0.8279816513761468,0.8076062639821029,436.0
+Prototype,PlantVillage,123,8,Tomato___Early_blight,0.44841269841269843,0.5255813953488372,0.48394004282655245,215.0
+Prototype,PlantVillage,123,9,Tomato___Late_blight,0.8367346938775511,0.44086021505376344,0.5774647887323944,372.0
+Prototype,PlantVillage,123,10,Tomato___Leaf_Mold,0.5142857142857142,0.7325581395348837,0.60431654676259,172.0
+Prototype,PlantVillage,123,11,Tomato___Septoria_leaf_spot,0.6649484536082474,0.7655786350148368,0.7117241379310345,337.0
+Prototype,PlantVillage,123,12,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.9966517857142857,0.8118181818181818,0.8947895791583166,1100.0
+Prototype,PlantVillage,123,13,Tomato___Tomato_mosaic_virus,0.32,0.8484848484848485,0.46473029045643155,66.0
+Prototype Refinement,PlantVillage,123,0,Apple___Apple_scab,0.9921875,1.0,0.996078431372549,127.0
+Prototype Refinement,PlantVillage,123,1,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.6397058823529411,0.9886363636363636,0.7767857142857143,88.0
+Prototype Refinement,PlantVillage,123,2,Corn_(maize)___Common_rust_,0.9767441860465116,0.7741935483870968,0.8637532133676092,217.0
+Prototype Refinement,PlantVillage,123,3,Grape___Black_rot,1.0,1.0,1.0,168.0
+Prototype Refinement,PlantVillage,123,4,Potato___Early_blight,0.7397260273972602,0.9878048780487805,0.8459530026109661,164.0
+Prototype Refinement,PlantVillage,123,5,Potato___Late_blight,0.7456896551724138,0.8160377358490566,0.7792792792792793,212.0
+Prototype Refinement,PlantVillage,123,6,Squash___Powdery_mildew,1.0,1.0,1.0,372.0
+Prototype Refinement,PlantVillage,123,7,Tomato___Bacterial_spot,0.7927350427350427,0.8509174311926605,0.8207964601769911,436.0
+Prototype Refinement,PlantVillage,123,8,Tomato___Early_blight,0.41843971631205673,0.5488372093023256,0.47484909456740443,215.0
+Prototype Refinement,PlantVillage,123,9,Tomato___Late_blight,0.8092783505154639,0.4220430107526882,0.5547703180212014,372.0
+Prototype Refinement,PlantVillage,123,10,Tomato___Leaf_Mold,0.5080645161290323,0.7325581395348837,0.6,172.0
+Prototype Refinement,PlantVillage,123,11,Tomato___Septoria_leaf_spot,0.6888888888888889,0.7359050445103857,0.7116212338593975,337.0
+Prototype Refinement,PlantVillage,123,12,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.9955257270693513,0.8090909090909091,0.892678034102307,1100.0
+Prototype Refinement,PlantVillage,123,13,Tomato___Tomato_mosaic_virus,0.3063583815028902,0.803030303030303,0.4435146443514644,66.0
+kNN,PlantDoc,123,0,Apple___Apple_scab,1.0,0.4,0.5714285714285714,10.0
+kNN,PlantDoc,123,1,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.23076923076923078,1.0,0.375,3.0
+kNN,PlantDoc,123,2,Corn_(maize)___Common_rust_,1.0,0.1,0.18181818181818182,10.0
+kNN,PlantDoc,123,3,Grape___Black_rot,0.6666666666666666,1.0,0.8,8.0
+kNN,PlantDoc,123,4,Potato___Early_blight,0.3333333333333333,0.5714285714285714,0.42105263157894735,7.0
+kNN,PlantDoc,123,5,Potato___Late_blight,0.0,0.0,0.0,5.0
+kNN,PlantDoc,123,6,Squash___Powdery_mildew,1.0,0.5,0.6666666666666666,6.0
+kNN,PlantDoc,123,7,Tomato___Bacterial_spot,0.0,0.0,0.0,8.0
+kNN,PlantDoc,123,8,Tomato___Early_blight,0.2777777777777778,0.5555555555555556,0.37037037037037035,9.0
+kNN,PlantDoc,123,9,Tomato___Late_blight,0.3333333333333333,0.2,0.25,10.0
+kNN,PlantDoc,123,10,Tomato___Leaf_Mold,0.0,0.0,0.0,6.0
+kNN,PlantDoc,123,11,Tomato___Septoria_leaf_spot,0.3125,0.45454545454545453,0.37037037037037035,11.0
+kNN,PlantDoc,123,12,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.4,0.6666666666666666,0.5,6.0
+kNN,PlantDoc,123,13,Tomato___Tomato_mosaic_virus,0.0,0.0,0.0,10.0
+Linear Probe,PlantDoc,123,0,Apple___Apple_scab,0.8571428571428571,0.6,0.7058823529411765,10.0
+Linear Probe,PlantDoc,123,1,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.2,1.0,0.3333333333333333,3.0
+Linear Probe,PlantDoc,123,2,Corn_(maize)___Common_rust_,0.0,0.0,0.0,10.0
+Linear Probe,PlantDoc,123,3,Grape___Black_rot,0.7272727272727273,1.0,0.8421052631578947,8.0
+Linear Probe,PlantDoc,123,4,Potato___Early_blight,0.25,0.2857142857142857,0.26666666666666666,7.0
+Linear Probe,PlantDoc,123,5,Potato___Late_blight,0.0,0.0,0.0,5.0
+Linear Probe,PlantDoc,123,6,Squash___Powdery_mildew,1.0,0.6666666666666666,0.8,6.0
+Linear Probe,PlantDoc,123,7,Tomato___Bacterial_spot,0.5,0.125,0.2,8.0
+Linear Probe,PlantDoc,123,8,Tomato___Early_blight,0.21739130434782608,0.5555555555555556,0.3125,9.0
+Linear Probe,PlantDoc,123,9,Tomato___Late_blight,0.21739130434782608,0.5,0.30303030303030304,10.0
+Linear Probe,PlantDoc,123,10,Tomato___Leaf_Mold,0.0,0.0,0.0,6.0
+Linear Probe,PlantDoc,123,11,Tomato___Septoria_leaf_spot,0.8,0.36363636363636365,0.5,11.0
+Linear Probe,PlantDoc,123,12,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.375,0.5,0.42857142857142855,6.0
+Linear Probe,PlantDoc,123,13,Tomato___Tomato_mosaic_virus,0.0,0.0,0.0,10.0
+Prototype,PlantDoc,123,0,Apple___Apple_scab,1.0,0.5,0.6666666666666666,10.0
+Prototype,PlantDoc,123,1,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.23076923076923078,1.0,0.375,3.0
+Prototype,PlantDoc,123,2,Corn_(maize)___Common_rust_,0.0,0.0,0.0,10.0
+Prototype,PlantDoc,123,3,Grape___Black_rot,0.6153846153846154,1.0,0.7619047619047619,8.0
+Prototype,PlantDoc,123,4,Potato___Early_blight,0.25,0.5714285714285714,0.34782608695652173,7.0
+Prototype,PlantDoc,123,5,Potato___Late_blight,0.25,0.2,0.2222222222222222,5.0
+Prototype,PlantDoc,123,6,Squash___Powdery_mildew,1.0,0.5,0.6666666666666666,6.0
+Prototype,PlantDoc,123,7,Tomato___Bacterial_spot,0.5,0.125,0.2,8.0
+Prototype,PlantDoc,123,8,Tomato___Early_blight,0.21052631578947367,0.4444444444444444,0.2857142857142857,9.0
+Prototype,PlantDoc,123,9,Tomato___Late_blight,0.16666666666666666,0.1,0.125,10.0
+Prototype,PlantDoc,123,10,Tomato___Leaf_Mold,0.0,0.0,0.0,6.0
+Prototype,PlantDoc,123,11,Tomato___Septoria_leaf_spot,0.5714285714285714,0.36363636363636365,0.4444444444444444,11.0
+Prototype,PlantDoc,123,12,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.375,0.5,0.42857142857142855,6.0
+Prototype,PlantDoc,123,13,Tomato___Tomato_mosaic_virus,0.42857142857142855,0.3,0.35294117647058826,10.0
+Prototype Refinement,PlantDoc,123,0,Apple___Apple_scab,1.0,0.5,0.6666666666666666,10.0
+Prototype Refinement,PlantDoc,123,1,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.23076923076923078,1.0,0.375,3.0
+Prototype Refinement,PlantDoc,123,2,Corn_(maize)___Common_rust_,0.0,0.0,0.0,10.0
+Prototype Refinement,PlantDoc,123,3,Grape___Black_rot,0.6153846153846154,1.0,0.7619047619047619,8.0
+Prototype Refinement,PlantDoc,123,4,Potato___Early_blight,0.25,0.5714285714285714,0.34782608695652173,7.0
+Prototype Refinement,PlantDoc,123,5,Potato___Late_blight,0.25,0.2,0.2222222222222222,5.0
+Prototype Refinement,PlantDoc,123,6,Squash___Powdery_mildew,1.0,0.5,0.6666666666666666,6.0
+Prototype Refinement,PlantDoc,123,7,Tomato___Bacterial_spot,0.5,0.125,0.2,8.0
+Prototype Refinement,PlantDoc,123,8,Tomato___Early_blight,0.2,0.4444444444444444,0.27586206896551724,9.0
+Prototype Refinement,PlantDoc,123,9,Tomato___Late_blight,0.2,0.1,0.13333333333333333,10.0
+Prototype Refinement,PlantDoc,123,10,Tomato___Leaf_Mold,0.0,0.0,0.0,6.0
+Prototype Refinement,PlantDoc,123,11,Tomato___Septoria_leaf_spot,0.5714285714285714,0.36363636363636365,0.4444444444444444,11.0
+Prototype Refinement,PlantDoc,123,12,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.42857142857142855,0.5,0.46153846153846156,6.0
+Prototype Refinement,PlantDoc,123,13,Tomato___Tomato_mosaic_virus,0.42857142857142855,0.3,0.35294117647058826,10.0
+kNN,PlantVillage,2026,0,Apple___Apple_scab,0.992,0.9763779527559056,0.9841269841269841,127.0
+kNN,PlantVillage,2026,1,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9534883720930233,0.9318181818181818,0.9425287356321839,88.0
+kNN,PlantVillage,2026,2,Corn_(maize)___Common_rust_,0.9726027397260274,0.9815668202764977,0.9770642201834863,217.0
+kNN,PlantVillage,2026,3,Grape___Black_rot,1.0,1.0,1.0,168.0
+kNN,PlantVillage,2026,4,Potato___Early_blight,0.554006968641115,0.9695121951219512,0.70509977827051,164.0
+kNN,PlantVillage,2026,5,Potato___Late_blight,0.6942675159235668,0.5141509433962265,0.5907859078590786,212.0
+kNN,PlantVillage,2026,6,Squash___Powdery_mildew,0.9973190348525469,1.0,0.9986577181208054,372.0
+kNN,PlantVillage,2026,7,Tomato___Bacterial_spot,0.6229235880398671,0.8600917431192661,0.7225433526011561,436.0
+kNN,PlantVillage,2026,8,Tomato___Early_blight,0.38071065989847713,0.3488372093023256,0.3640776699029126,215.0
+kNN,PlantVillage,2026,9,Tomato___Late_blight,0.8,0.46236559139784944,0.58603066439523,372.0
+kNN,PlantVillage,2026,10,Tomato___Leaf_Mold,0.36015325670498083,0.5465116279069767,0.4341801385681293,172.0
+kNN,PlantVillage,2026,11,Tomato___Septoria_leaf_spot,0.4810606060606061,0.3768545994065282,0.4226289517470882,337.0
+kNN,PlantVillage,2026,12,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.9821656050955414,0.7009090909090909,0.8180371352785146,1100.0
+kNN,PlantVillage,2026,13,Tomato___Tomato_mosaic_virus,0.20846905537459284,0.9696969696969697,0.34316353887399464,66.0
+Linear Probe,PlantVillage,2026,0,Apple___Apple_scab,0.9920634920634921,0.984251968503937,0.9881422924901185,127.0
+Linear Probe,PlantVillage,2026,1,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9886363636363636,0.9886363636363636,0.9886363636363636,88.0
+Linear Probe,PlantVillage,2026,2,Corn_(maize)___Common_rust_,0.9908675799086758,1.0,0.9954128440366973,217.0
+Linear Probe,PlantVillage,2026,3,Grape___Black_rot,1.0,1.0,1.0,168.0
+Linear Probe,PlantVillage,2026,4,Potato___Early_blight,0.851063829787234,0.975609756097561,0.9090909090909091,164.0
+Linear Probe,PlantVillage,2026,5,Potato___Late_blight,0.7578125,0.9150943396226415,0.8290598290598291,212.0
+Linear Probe,PlantVillage,2026,6,Squash___Powdery_mildew,1.0,1.0,1.0,372.0
+Linear Probe,PlantVillage,2026,7,Tomato___Bacterial_spot,0.7782101167315175,0.9174311926605505,0.8421052631578947,436.0
+Linear Probe,PlantVillage,2026,8,Tomato___Early_blight,0.42857142857142855,0.6139534883720931,0.5047801147227533,215.0
+Linear Probe,PlantVillage,2026,9,Tomato___Late_blight,0.8471615720524017,0.521505376344086,0.6455906821963394,372.0
+Linear Probe,PlantVillage,2026,10,Tomato___Leaf_Mold,0.3960674157303371,0.8197674418604651,0.5340909090909091,172.0
+Linear Probe,PlantVillage,2026,11,Tomato___Septoria_leaf_spot,0.8158995815899581,0.5786350148367952,0.6770833333333334,337.0
+Linear Probe,PlantVillage,2026,12,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.9839108910891089,0.7227272727272728,0.8333333333333334,1100.0
+Linear Probe,PlantVillage,2026,13,Tomato___Tomato_mosaic_virus,0.36,0.9545454545454546,0.5228215767634855,66.0
+Prototype,PlantVillage,2026,0,Apple___Apple_scab,1.0,0.9921259842519685,0.9960474308300395,127.0
+Prototype,PlantVillage,2026,1,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,1.0,0.9204545454545454,0.9585798816568047,88.0
+Prototype,PlantVillage,2026,2,Corn_(maize)___Common_rust_,0.96875,1.0,0.9841269841269841,217.0
+Prototype,PlantVillage,2026,3,Grape___Black_rot,1.0,1.0,1.0,168.0
+Prototype,PlantVillage,2026,4,Potato___Early_blight,0.7881773399014779,0.975609756097561,0.8719346049046321,164.0
+Prototype,PlantVillage,2026,5,Potato___Late_blight,0.7519685039370079,0.9009433962264151,0.8197424892703863,212.0
+Prototype,PlantVillage,2026,6,Squash___Powdery_mildew,1.0,1.0,1.0,372.0
+Prototype,PlantVillage,2026,7,Tomato___Bacterial_spot,0.789795918367347,0.8876146788990825,0.8358531317494601,436.0
+Prototype,PlantVillage,2026,8,Tomato___Early_blight,0.4037854889589905,0.5953488372093023,0.48120300751879697,215.0
+Prototype,PlantVillage,2026,9,Tomato___Late_blight,0.8238341968911918,0.4274193548387097,0.5628318584070796,372.0
+Prototype,PlantVillage,2026,10,Tomato___Leaf_Mold,0.4056603773584906,0.75,0.5265306122448979,172.0
+Prototype,PlantVillage,2026,11,Tomato___Septoria_leaf_spot,0.7012448132780082,0.5014836795252225,0.5847750865051903,337.0
+Prototype,PlantVillage,2026,12,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.992,0.7890909090909091,0.8789873417721519,1100.0
+Prototype,PlantVillage,2026,13,Tomato___Tomato_mosaic_virus,0.29891304347826086,0.8333333333333334,0.44,66.0
+Prototype Refinement,PlantVillage,2026,0,Apple___Apple_scab,1.0,0.9921259842519685,0.9960474308300395,127.0
+Prototype Refinement,PlantVillage,2026,1,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,1.0,0.9431818181818182,0.9707602339181286,88.0
+Prototype Refinement,PlantVillage,2026,2,Corn_(maize)___Common_rust_,0.9774774774774775,1.0,0.9886104783599089,217.0
+Prototype Refinement,PlantVillage,2026,3,Grape___Black_rot,1.0,1.0,1.0,168.0
+Prototype Refinement,PlantVillage,2026,4,Potato___Early_blight,0.7860696517412935,0.9634146341463414,0.8657534246575342,164.0
+Prototype Refinement,PlantVillage,2026,5,Potato___Late_blight,0.7559055118110236,0.9056603773584906,0.8240343347639485,212.0
+Prototype Refinement,PlantVillage,2026,6,Squash___Powdery_mildew,1.0,1.0,1.0,372.0
+Prototype Refinement,PlantVillage,2026,7,Tomato___Bacterial_spot,0.8074534161490683,0.8944954128440367,0.8487486398258978,436.0
+Prototype Refinement,PlantVillage,2026,8,Tomato___Early_blight,0.39384615384615385,0.5953488372093023,0.4740740740740741,215.0
+Prototype Refinement,PlantVillage,2026,9,Tomato___Late_blight,0.845360824742268,0.44086021505376344,0.5795053003533569,372.0
+Prototype Refinement,PlantVillage,2026,10,Tomato___Leaf_Mold,0.4336569579288026,0.7790697674418605,0.5571725571725572,172.0
+Prototype Refinement,PlantVillage,2026,11,Tomato___Septoria_leaf_spot,0.7439024390243902,0.543026706231454,0.62778730703259,337.0
+Prototype Refinement,PlantVillage,2026,12,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.994343891402715,0.7990909090909091,0.8860887096774194,1100.0
+Prototype Refinement,PlantVillage,2026,13,Tomato___Tomato_mosaic_virus,0.3016759776536313,0.8181818181818182,0.44081632653061226,66.0
+kNN,PlantDoc,2026,0,Apple___Apple_scab,1.0,0.4,0.5714285714285714,10.0
+kNN,PlantDoc,2026,1,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.3333333333333333,0.6666666666666666,0.4444444444444444,3.0
+kNN,PlantDoc,2026,2,Corn_(maize)___Common_rust_,0.75,0.6,0.6666666666666666,10.0
+kNN,PlantDoc,2026,3,Grape___Black_rot,0.7272727272727273,1.0,0.8421052631578947,8.0
+kNN,PlantDoc,2026,4,Potato___Early_blight,0.16666666666666666,0.2857142857142857,0.21052631578947367,7.0
+kNN,PlantDoc,2026,5,Potato___Late_blight,0.125,0.2,0.15384615384615385,5.0
+kNN,PlantDoc,2026,6,Squash___Powdery_mildew,0.75,0.5,0.6,6.0
+kNN,PlantDoc,2026,7,Tomato___Bacterial_spot,0.0,0.0,0.0,8.0
+kNN,PlantDoc,2026,8,Tomato___Early_blight,0.17647058823529413,0.3333333333333333,0.23076923076923078,9.0
+kNN,PlantDoc,2026,9,Tomato___Late_blight,0.16666666666666666,0.2,0.18181818181818182,10.0
+kNN,PlantDoc,2026,10,Tomato___Leaf_Mold,0.0,0.0,0.0,6.0
+kNN,PlantDoc,2026,11,Tomato___Septoria_leaf_spot,0.0,0.0,0.0,11.0
+kNN,PlantDoc,2026,12,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.2857142857142857,0.3333333333333333,0.3076923076923077,6.0
+kNN,PlantDoc,2026,13,Tomato___Tomato_mosaic_virus,0.3333333333333333,0.1,0.15384615384615385,10.0
+Linear Probe,PlantDoc,2026,0,Apple___Apple_scab,1.0,0.5,0.6666666666666666,10.0
+Linear Probe,PlantDoc,2026,1,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.3,1.0,0.46153846153846156,3.0
+Linear Probe,PlantDoc,2026,2,Corn_(maize)___Common_rust_,1.0,0.3,0.46153846153846156,10.0
+Linear Probe,PlantDoc,2026,3,Grape___Black_rot,0.7272727272727273,1.0,0.8421052631578947,8.0
+Linear Probe,PlantDoc,2026,4,Potato___Early_blight,0.16666666666666666,0.2857142857142857,0.21052631578947367,7.0
+Linear Probe,PlantDoc,2026,5,Potato___Late_blight,0.25,0.2,0.2222222222222222,5.0
+Linear Probe,PlantDoc,2026,6,Squash___Powdery_mildew,1.0,0.6666666666666666,0.8,6.0
+Linear Probe,PlantDoc,2026,7,Tomato___Bacterial_spot,0.0,0.0,0.0,8.0
+Linear Probe,PlantDoc,2026,8,Tomato___Early_blight,0.21428571428571427,0.3333333333333333,0.2608695652173913,9.0
+Linear Probe,PlantDoc,2026,9,Tomato___Late_blight,0.18518518518518517,0.5,0.2702702702702703,10.0
+Linear Probe,PlantDoc,2026,10,Tomato___Leaf_Mold,0.0,0.0,0.0,6.0
+Linear Probe,PlantDoc,2026,11,Tomato___Septoria_leaf_spot,1.0,0.09090909090909091,0.16666666666666666,11.0
+Linear Probe,PlantDoc,2026,12,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.75,0.5,0.6,6.0
+Linear Probe,PlantDoc,2026,13,Tomato___Tomato_mosaic_virus,0.0,0.0,0.0,10.0
+Prototype,PlantDoc,2026,0,Apple___Apple_scab,1.0,0.6,0.75,10.0
+Prototype,PlantDoc,2026,1,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.2857142857142857,0.6666666666666666,0.4,3.0
+Prototype,PlantDoc,2026,2,Corn_(maize)___Common_rust_,0.7142857142857143,0.5,0.5882352941176471,10.0
+Prototype,PlantDoc,2026,3,Grape___Black_rot,0.7272727272727273,1.0,0.8421052631578947,8.0
+Prototype,PlantDoc,2026,4,Potato___Early_blight,0.15384615384615385,0.2857142857142857,0.2,7.0
+Prototype,PlantDoc,2026,5,Potato___Late_blight,0.2857142857142857,0.4,0.3333333333333333,5.0
+Prototype,PlantDoc,2026,6,Squash___Powdery_mildew,1.0,0.6666666666666666,0.8,6.0
+Prototype,PlantDoc,2026,7,Tomato___Bacterial_spot,0.0,0.0,0.0,8.0
+Prototype,PlantDoc,2026,8,Tomato___Early_blight,0.2608695652173913,0.6666666666666666,0.375,9.0
+Prototype,PlantDoc,2026,9,Tomato___Late_blight,0.0,0.0,0.0,10.0
+Prototype,PlantDoc,2026,10,Tomato___Leaf_Mold,0.0,0.0,0.0,6.0
+Prototype,PlantDoc,2026,11,Tomato___Septoria_leaf_spot,0.3333333333333333,0.09090909090909091,0.14285714285714285,11.0
+Prototype,PlantDoc,2026,12,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.6,0.5,0.5454545454545454,6.0
+Prototype,PlantDoc,2026,13,Tomato___Tomato_mosaic_virus,0.2,0.1,0.13333333333333333,10.0
+Prototype Refinement,PlantDoc,2026,0,Apple___Apple_scab,1.0,0.5,0.6666666666666666,10.0
+Prototype Refinement,PlantDoc,2026,1,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.25,0.6666666666666666,0.36363636363636365,3.0
+Prototype Refinement,PlantDoc,2026,2,Corn_(maize)___Common_rust_,0.6666666666666666,0.4,0.5,10.0
+Prototype Refinement,PlantDoc,2026,3,Grape___Black_rot,0.7272727272727273,1.0,0.8421052631578947,8.0
+Prototype Refinement,PlantDoc,2026,4,Potato___Early_blight,0.15384615384615385,0.2857142857142857,0.2,7.0
+Prototype Refinement,PlantDoc,2026,5,Potato___Late_blight,0.375,0.6,0.46153846153846156,5.0
+Prototype Refinement,PlantDoc,2026,6,Squash___Powdery_mildew,1.0,0.6666666666666666,0.8,6.0
+Prototype Refinement,PlantDoc,2026,7,Tomato___Bacterial_spot,0.5,0.125,0.2,8.0
+Prototype Refinement,PlantDoc,2026,8,Tomato___Early_blight,0.2916666666666667,0.7777777777777778,0.42424242424242425,9.0
+Prototype Refinement,PlantDoc,2026,9,Tomato___Late_blight,0.0,0.0,0.0,10.0
+Prototype Refinement,PlantDoc,2026,10,Tomato___Leaf_Mold,0.0,0.0,0.0,6.0
+Prototype Refinement,PlantDoc,2026,11,Tomato___Septoria_leaf_spot,0.5,0.18181818181818182,0.26666666666666666,11.0
+Prototype Refinement,PlantDoc,2026,12,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.6,0.5,0.5454545454545454,6.0
+Prototype Refinement,PlantDoc,2026,13,Tomato___Tomato_mosaic_virus,0.25,0.1,0.14285714285714285,10.0
